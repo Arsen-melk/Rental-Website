@@ -1,0 +1,388 @@
+{
+    "Աթոռներ": {
+      "image": "/assets/products_img/ator.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Պլաստմասե աթոռ",
+          "price": "500 ֏",
+          "description": "Պլաստամասե աթոռ՝ մետաղյա ոտքերով",
+          "images": [
+          "/assets/img_detalis/rosa.jpg","/assets/img_detalis/rosa2.jpg","/assets/img_detalis/rosa3.jpg","/assets/img_detalis/rosa4.jpg","/assets/img_detalis/rosa1.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Սպիտակ աթոռ",
+          "price": "1500 ֏",
+          "description": "Հարսանեկան աթոռ",
+          "images": ["/assets/img_detalis/white.jpg"
+          ,"/assets/img_detalis/white4.jpg","/assets/img_detalis/white3.jpg","/assets/img_detalis/white1.jpg"]
+        },
+        {
+          "id": 3,
+          "name": "Թափանցիկ աթոռ",
+          "price": "1300 ֏",
+          "description": "Թափանցիկ , նորաոճ աթոռ",
+          "images": ["/assets/img_detalis/tiffany.jpg"
+          ,"/assets/img_detalis/tiffany1.jpg","/assets/img_detalis/tiffany3.jpg","/assets/img_detalis/tiffany4.jpg"]
+        },
+        {
+          "id": 4,
+          "name": "Մարիոթ",
+          "price": "1100 ֏",
+          "description": "Բանկետային աթոռ՝ կարմիր,կապույտ, սև",
+          "images": ["/assets/img_detalis/mariot.jpg"
+          ,"/assets/img_detalis/mariot2.jpg","/assets/img_detalis/mariot3.jpg","/assets/img_detalis/mariot4.jpg"]
+        },
+        {
+          "id": 5,
+          "name": "Բառի աթոռ",
+          "price": "3500 ֏",
+          "description": "",
+          "images": ["/assets/img_detalis/bariator.jpg"
+          ,"/assets/img_detalis/bariator1.jpg"]
+        }
+      ]
+    },
+    "Սեղաններ": {
+      "image": "/assets/products_img/table.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Կլոր Սեղան",
+          "price": "7000 ֏",
+          "description": "Տրամագիծը՝ 150 սմ",
+          "images": ["/assets/img_detalis/seghan.jpg"
+          ,"/assets/img_detalis/seghan1.jpg","/assets/img_detalis/seghan2.jpg","/assets/img_detalis/seghan3.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Կլոր Սեղան (Մեծ)",
+          "price": "8000 ֏",
+          "description": "Տրամագիծը՝ 180 սմ",
+          "images": ["/assets/img_detalis/seghan_mec.jpg"
+          ,"/assets/img_detalis/seghan_mec1.jpg","/assets/img_detalis/seghan_mec2.jpg","/assets/img_detalis/seghan_mec3.jpg"]
+        },
+        {
+          "id": 3,
+          "name": "Ուղղանկյուն սեղան",
+          "price": "4000 ֏",
+          "description": "Չափսերը՝ 180*85",
+          "images": ["/assets/img_detalis/seghan_ugh.jpg"
+          ,"/assets/img_detalis/seghan_ugh1.jpg","/assets/img_detalis/seghan_ugh2.jpg","/assets/img_detalis/seghan_ugh3.jpg"]
+        },
+        {
+          "id": 4,
+          "name": "Կոկտեյլի սեղան",
+          "price": "6000 ֏",
+          "description": "Տրամագիծը՝ 80 սմ, բարձրությունը՝ 110 սմ ",
+          "images": ["/assets/img_detalis/kokteyl3.jpg"
+          ,"/assets/img_detalis/kokteyl1.jpg","/assets/img_detalis/kokteyl2.jpg","/assets/img_detalis/kokteyl.jpg","/assets/img_detalis/kokteyl4.jpg"]
+        }
+      ]
+    },
+    "Տենտեր": {
+      "image": "/assets/products_img/tent.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Տենտ",
+          "price": "10000 ֏",
+          "description": "Չափսերը՝ 3*3",
+          "images": ["/assets/img_detalis/tent.jpg"
+          ,"/assets/img_detalis/tent1.jpg","/assets/img_detalis/tent2.jpg","/assets/img_detalis/tent3.jpg"]
+        }
+      ]
+    },
+    "Լույսեր": {
+      "image": "/assets/products_img/luyser.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Դեկորատիվ լույսեր",
+          "price": "600 ֏",
+          "description": "Անսահմանափակ երկարություն",
+          "images": ["/assets/img_detalis/luys1.jpg"
+          ,"/assets/img_detalis/luys.jpg","/assets/img_detalis/luys2.jpg","/assets/img_detalis/luys3.jpg"]
+        }
+      ]
+    },
+    "Ծածկեր": {
+      "image": "/assets/products_img/pogoda.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Ծածկ",
+          "price": "50000 ֏-ից սկսած",
+          "description": "Չափսերը՝ 3x3 , 5x5 , 10x10",
+          "images": ["/assets/img_detalis/cack1.jpg"
+          ,"/assets/img_detalis/cack2.jpg","/assets/img_detalis/cack3.jpg","/assets/img_detalis/cack4.jpg"]
+        }
+      ]
+    },
+    "Սպասք": {
+      "image": "/assets/products_img/spasq.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Սպասք",
+          "price": "1300 ֏",
+          "description": "Ներառվում է՝ ափսե(մեծ,փոքր),բաժակ(մեծ,փոքր),դանակ,պատառաքաղ",
+          "images": ["/assets/img_detalis/spasq.jpg"
+          ,"/assets/img_detalis/spasq2.jpg","/assets/img_detalis/spasq1.jpg","/assets/img_detalis/spasq3.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Գինու բաժակ",
+          "price": "200 ֏",
+          "description": "",
+          "images": ["/assets/img_detalis/gini.jpg"
+          ,"/assets/img_detalis/gini1.jpg"]
+        },
+        {
+          "id": 3,
+          "name": "Շամպայնի բաժակ",
+          "price": "150 ֏",
+          "description": "",
+          "images": ["/assets/img_detalis/shampayn.jpg"
+          ,"/assets/img_detalis/shampayn1.jpg"]
+        }
+      ]
+    },
+    "Տառեր": {
+      "image": "/assets/products_img/tarer.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Տառեր",
+          "price": "Գինը կախված փաթեթից",
+          "description": "Լույսերով տառեր․ բարձրությունը՝ 1մ",
+          "images": ["/assets/img_detalis/tarer.jpg"
+          ,"/assets/img_detalis/tarer1.jpg","/assets/img_detalis/tarer2.jpg","/assets/img_detalis/tarer3.jpg"]
+        }
+      ]
+    },
+    "Պուֆիկներ": {
+      "image": "/assets/products_img/pufik.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Պուֆիկ",
+          "price": "2500 ֏",
+          "description": "Տարբեր գույների պուֆիկներ",
+          "images": ["/assets/img_detalis/pufik.jpg"
+          ,"/assets/img_detalis/pufik1.jpg","/assets/img_detalis/pufik2.jpg","/assets/img_detalis/pufik3.jpg"]
+        }
+      ]
+    },
+    "Խաղեր": {
+      "image": "/assets/products_img/poker.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Պոկեռ",
+          "price": "25000 ֏",
+          "description": "Տրամադրում ենք ֆիշկաներով",
+          "images": ["/assets/img_detalis/poker.jpg"
+          ,"/assets/img_detalis/poker1.jpg","/assets/img_detalis/poker2.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Թենիս",
+          "price": "20000 ֏",
+          "description": "Բացվող-փակվող, անիվներով",
+          "images": ["/assets/img_detalis/tenis.jpg"
+          ,"/assets/img_detalis/tenis1.jpg","/assets/img_detalis/tenis2.jpg"]
+        },
+        {
+          "id": 3,
+          "name": "Ֆուտբոլ",
+          "price": "15000 ֏",
+          "description": "Չափսերը՝ 120*65",
+          "images": ["/assets/img_detalis/football1.jpg"
+          ,"/assets/img_detalis/football.jpg","/assets/img_detalis/football2.jpg"]
+        }
+      ]
+    },
+    "Տաքացուցիչներ": {
+      "image": "/assets/products_img/taqacucich.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Գազով տաքացուցիչ",
+          "price": "50000 ֏",
+          "description": "Աշխատում են հեղուկ գազով։ Նախատեսված է բաց տարածքների համար",
+          "images": ["/assets/img_detalis/taqacucich.jpg"
+          ,"/assets/img_detalis/taqacucich1.jpg","/assets/img_detalis/taqacucich2.jpg"]
+        }
+      ]
+    },
+    "Հովացուցիչներ": {
+      "image": "/assets/products_img/hovacucich.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Ջրով հովացուցիչ",
+          "price": "12000 ֏",
+          "description": "Աշխատում են ջրով",
+          "images": ["/assets/img_detalis/hovacucich.jpg"
+          ,"/assets/img_detalis/hovacucich1.jpg"]
+        }
+      ]
+    },
+    "Սառնարաններ": {
+      "image": "/assets/products_img/sarnaran.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Սառնարան",
+          "price": "20000 ֏",
+          "description": "Չափսերը՝ 170*65*55",
+          "images": ["/assets/img_detalis/sarnaran.jpg"
+          ,"/assets/img_detalis/sarnaran1.jpg"]
+        }
+      ]
+    },
+    "Տուրիզմի պարագաներ": {
+      "image": "/assets/products_img/vran.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Վրան",
+          "price": "5000 ֏",
+          "description": "Նախատեսված է երկու հոգու համար",
+          "images": ["/assets/img_detalis/vran1.jpg"
+          ,"/assets/img_detalis/vran.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Քնապարկ",
+          "price": "2000 ֏",
+          "description": "Ցրտադիմացկուն քնապարկեր",
+          "images": ["/assets/img_detalis/qnapark.jpg"
+          ,"/assets/img_detalis/qnapark1.jpg"]
+        }
+      ]
+    },
+    "Կախիչներ": {
+      "image": "/assets/products_img/kaxich.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Կախիչ",
+          "price": "12000 ֏",
+          "description": "Առկա է երկու ձող,տեղավորում է 40 կախիչ։ Անիվներով",
+          "images": ["/assets/img_detalis/kaxich.jpg"
+          ,"/assets/img_detalis/kaxich1.jpg"]
+        }
+      ]
+    },
+    "Բառի սեղաններ": {
+      "image": "/assets/products_img/bari.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Բառի սեղան",
+          "price": "25000 ֏",
+          "description": "Ներառում է երկու հատ սառույցի տարա",
+          "images": ["/assets/img_detalis/bar.jpg"
+          ,"/assets/img_detalis/bar1.jpg"]
+        },
+        {
+          "id": 2,
+          "name": "Բառի սեղան",
+          "price": "20000 ֏",
+          "description": "Ներառում է՝ լույս,սառույցի տարա",
+          "images": ["/assets/img_detalis/bari.jpg"
+          ,"/assets/img_detalis/bari1.jpg"]
+        },
+        {
+          "id": 3,
+          "name": "Բառի սեղան",
+          "price": "15000 ֏",
+          "description": "Առանց սառույցի տարայի",
+          "images": ["/assets/img_detalis/barii.jpg"
+          ,"/assets/img_detalis/barii1.jpg"]
+        }
+      ]
+    },
+    "Աղբամաններ": {
+      "image": "/assets/products_img/axbaman.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Աղբաման",
+          "price": "4000 ֏",
+          "description": "Տրամաչափը՝ 120 լ",
+          "images": ["/assets/img_detalis/axbaman.jpg"
+          ,"/assets/img_detalis/axbaman1.jpg"]
+        }
+      ]
+    },
+    "Շամպայնի ստենդ": {
+      "image": "/assets/products_img/stend.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Շամպայնի ստենդ",
+          "price": "40000 ֏",
+          "description": "Տեղավորում է 40-50 բաժակ",
+          "images": ["/assets/img_detalis/stand.jpg"
+          ,"/assets/img_detalis/stand1.jpg"]
+        }
+      ]
+    },
+    "Պռոեկտոր": {
+      "image": "/assets/products_img/proektor.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Պռոեկտոր",
+          "price": "10000 ֏",
+          "description": "",
+          "images": ["/assets/img_detalis/proektor.jpg"
+          ,"/assets/img_detalis/proektor1.jpg"]
+        }
+      ]
+    },
+    "Տապչաններ": {
+      "image": "/assets/products_img/tapchan.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Տապչան",
+          "price": "6000 ֏",
+          "description": "Տեսակը՝ պլաստմասե",
+          "images": ["/assets/img_detalis/tapchan.jpg"
+          ,"/assets/img_detalis/tapchan1.jpg"]
+        }
+      ]
+    },
+    "Ցուցանակներ": {
+      "image": "/assets/products_img/cucanak.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Ցուցանակ",
+          "price": "5000 ֏",
+          "description": "Նախատեսված է A4 տրամաչափի համար",
+          "images": ["/assets/img_detalis/cucanak.jpg"
+          ]
+        }
+      ]
+    },
+    "Ամբիոններ": {
+      "image": "/assets/products_img/ambion.jpg",
+      "items": [
+        {
+          "id": 1,
+          "name": "Ամբիոն",
+          "price": "12000 ֏",
+          "description": "Բարձրությունը ՝ 120 սմ",
+          "images": ["/assets/img_detalis/ambion.jpg"
+          ,"/assets/img_detalis/ambion1.jpg"]
+        }
+      ]
+    }
+  }
+  
